@@ -1,0 +1,8 @@
+{
+  "name": "PulseCS: Customer Success & Business Analytics AI",
+  "description": "AI-powered Customer Success and Business Analytics assistant for analyzing customer sentiment, urgency, churn risk, drafting responses, and uncovering data trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

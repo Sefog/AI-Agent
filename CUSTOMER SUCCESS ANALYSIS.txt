@@ -1,0 +1,27 @@
+CUSTOMER SUCCESS ANALYSIS
+
+A text box where one can paste a customer email or support ticket.
+
+Analyze the customer's sentiment (positive, neutral, negative).
+
+Identify the main problem.
+
+Assess customer urgency (low, medium, high).
+
+Estimate churn risk (low, medium, high).
+
+Recommend what the Customer Success Manager should do next.
+
+Draft a professional response to the customer.
+
+CUSTOMER DATA ANALYSIS
+
+Allows pasting of sample customer data.
+
+Identifies trends and patterns.
+
+Highlight potential customer retention problems.
+
+Summarizes important business findings.
+
+Provides practical recommendations.
